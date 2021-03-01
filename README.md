@@ -4,6 +4,7 @@
 
 ***
 
+
 ## Preparation for Vitis AI v1.3
 
 - Copy ``arch.json`` in ``sd_card`` directory of DPU-TRD as ``arch/<platform name>.json``
